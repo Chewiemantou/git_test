@@ -1,1 +1,1 @@
-This is Kevin's first git project!
+This is JJun's first git project!
